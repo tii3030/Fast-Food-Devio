@@ -21,11 +21,6 @@ import {
     Observation
 } from './ordersSTL';
 
-import combo from '../../imgs/combo.png';
-import acompanhamento from '../../imgs/acompanhamento.png';
-import bebidas from '../../imgs/bebidas.png';
-import sobremesa from '../../imgs/sobremesa.png';
-
 import api from "../../service/axios";
 import './orders.css';
 import "./modal/modal.css";
@@ -347,22 +342,22 @@ function Orders() {
                 <Container_cards>
 
                     <Card_category>
-                        <Img src={combo} alt="Combos"/>
+                        <Img src={'https://bi.eletrosom.com/ddrgh/assets/imgs/combo.png'} alt="Combos"/>
                         <Text_title>Combos</Text_title>
                     </Card_category>
 
                     <Card_category>
-                        <Img src={acompanhamento} alt="Combos"/>
+                        <Img src={'https://bi.eletrosom.com/ddrgh/assets/imgs/acompanhamento.png'} alt="Combos"/>
                         <Text_title>Acompanhamentos</Text_title>
                     </Card_category>
 
                     <Card_category>
-                        <Img src={bebidas} alt="Combos"/>
+                        <Img src={'https://bi.eletrosom.com/ddrgh/assets/imgs/bebidas.png'} alt="Combos"/>
                         <Text_title>Bebidas</Text_title>
                     </Card_category>
 
                     <Card_category>
-                        <Img src={sobremesa} alt="Combos"/>
+                        <Img src={'https://bi.eletrosom.com/ddrgh/assets/imgs/sobremesa.png'} alt="Combos"/>
                         <Text_title>Sobremesas</Text_title>
                     </Card_category>
 

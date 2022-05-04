@@ -12,7 +12,7 @@
     min-width: 200px;
     min-height: 150px;
     margin: 0 50px 50px 0;
-    background-image: url("../../imgs/background_hs.jpg");
+    background-image: url("../../assets/imgs/background_hs.jpg");
     background-size: contain;
     position: relative;
     cursor: default;
@@ -32,7 +32,7 @@
     min-width: 200px;
     min-height: 150px;
     margin: 0 50px 50px 0;
-    background-image: url("../../imgs/background_hs.jpg");
+    background-image: url("../../assets/imgs/background_hs.jpg");
     background-size: contain;
     position: relative;
     cursor: default;
@@ -68,7 +68,7 @@
     align-items: center;
     justify-content: center;
     margin: 0 40px 40px 0;
-    background-image: url("../../imgs/background_hs.jpg");
+    background-image: url("../../assets/imgs/background_hs.jpg");
     background-size: contain;
     position: relative;
     cursor: default;

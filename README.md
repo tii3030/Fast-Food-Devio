@@ -30,3 +30,11 @@ npm start
 |name|email|
 | -------- | -------- |
 |Tiago Pereira|tiago.wy@outlook.com|
+
+
+## Caso de erro:
+<p align="justify"> Em caso do seu navegodor ser o Firefox e não rodar a aplicação acesse [About Config](about:config) </p>
+<p align="justify"> E altere o parâmetro network.websocket.allowInsecureFromHTTPS para true, para possibilitar a comunicação com o WebSocket. </p>
+
+<img src="https://raw.githubusercontent.com/tii3030/Fast-Food/main/Screenshot2.png"></img>
+

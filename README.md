@@ -16,7 +16,7 @@
 - [mysql](https://www.php.net/): versão 8.0.25 for Linux on x86_64 (MySQL Community Server - GPL)
 
 
-## Rodando a aplicação :play:
+## Rodando a aplicação :arrow_forward:
 
 ```sh
 git clone https://github.com/tii3030/Fast-Food

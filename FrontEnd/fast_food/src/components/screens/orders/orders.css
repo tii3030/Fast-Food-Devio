@@ -1,0 +1,75 @@
+.Card_product1 {
+    height: 230px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+    min-height: 150px;
+    margin: 0 50px 50px 0;
+    background-image: url("../../imgs/background_hs.jpg");
+    background-size: contain;
+    position: relative;
+    cursor: default;
+}
+
+.Card_product {
+    height: 230px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+    min-height: 150px;
+    margin: 0 50px 50px 0;
+    background-image: url("../../imgs/background_hs.jpg");
+    background-size: contain;
+    position: relative;
+    cursor: default;
+}
+
+.Card_product::before{
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(6, 191, 34, 0.59);
+    border-radius: 10px;
+    z-index: 5000;
+}
+
+.show{
+    display: block !important;
+  }
+
+
+.Card_product3 {
+    height: 149px;
+    width: 156px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 40px 40px 0;
+    background-image: url("../../imgs/background_hs.jpg");
+    background-size: contain;
+    position: relative;
+    cursor: default;
+}

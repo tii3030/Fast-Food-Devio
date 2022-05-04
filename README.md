@@ -33,7 +33,7 @@ npm start
 
 
 ## Caso de erro:
-<p align="justify"> Em caso do seu navegodor ser o Firefox e não rodar a aplicação acesse </p> [About Config](about:config)
+<p align="justify"> Em caso do seu navegodor ser o Firefox e não rodar a aplicação acesse </p> [About Config](#about:config)
 <p align="justify"> E altere o parâmetro network.websocket.allowInsecureFromHTTPS para true, para possibilitar a comunicação com o WebSocket. </p>
 
 <img src="https://raw.githubusercontent.com/tii3030/Fast-Food-Devio/main/Screenshot2.png"></img>

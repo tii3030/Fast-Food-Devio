@@ -45,7 +45,7 @@ function Pickup() {
         <div style={{height: '100vh', width: '50%', padding: '60px', boxSizing: 'border-box', textAlign: 'center'}}>
             <h1>Preparando</h1>
 
-            {data.length != 0 && data.active.map(
+            {data.length !== 0 && data.length !== 0 && data.active.map(
                 item => 
                     <p key={Math.random().toString(36).substring(3,9)} style={{fontSize: '30px',fontWeight: 'bold', color: '#797979'}}>{item}</p>
             )}
@@ -60,7 +60,7 @@ function Pickup() {
         <div style={{height: '100vh', width: '50%', padding: '60px', boxSizing: 'border-box', textAlign: 'center'}}>
             <h1>Pronto</h1>
 
-            {data.length != 0 && data.finished.map(
+            {data.length !== 0 && data.length !== 0 && data.finished.map(
                 item => 
                     <p key={Math.random().toString(36).substring(3,9)} style={{fontSize: '30px',fontWeight: 'bold', color: '#797979'}}>{item}</p>
                 )}

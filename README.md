@@ -1,9 +1,7 @@
-**TESTE DESENVOLVEDOR FULL STACK DEVIO**
-
 <h1 align="center"> FAST FOOD </h1>
 <p align="justify"> Esta aplicação simula um sistema de pedidos de um Fast Food </p>
 <p align="justify"> O sistema foi desenvolvido de forma distribuída, tornado sua visualização (front-end), desacoplada das regras de negócios (back-end), além de aumentar a segurança, escalabilidade, e reutilização </p>
-<img src="https://raw.githubusercontent.com/tii3030/Fast-Food/main/Screenshot.png"></img>
+<img src="https://raw.githubusercontent.com/tii3030/Fast-Food-Devio/main/Screenshot.png"></img>
 
 
 > Status do Projeto: Em desenvolvimento :warning:
